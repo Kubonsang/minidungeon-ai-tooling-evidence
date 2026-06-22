@@ -19,4 +19,4 @@ contain `unity-ctx` logs.
 
 See the MiniDungeon evidence repository for the full sanitized reports (`docs/demo-e2e/report.md`,
 `docs/demo-e2e/apply-report.md`):
-**TODO: add MiniDungeon evidence repository link**
+**https://github.com/Kubonsang/minidungeon-ai-tooling-evidence**

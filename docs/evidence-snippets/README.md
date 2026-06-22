@@ -16,7 +16,7 @@ repositories, each scoped to what the MiniDungeon evidence actually proves for t
 | `unity-ctx` | [`unity-ctx.README-section.md`](unity-ctx.README-section.md) | Full E2E + actual write-path |
 | `unity-fileid-graph` | [`unity-fileid-graph.README-section.md`](unity-fileid-graph.README-section.md) | MiniDungeon validation role |
 
-**Before pasting:** replace `TODO: add MiniDungeon evidence repository link` with the public URL of
+**Before pasting:** replace `https://github.com/Kubonsang/minidungeon-ai-tooling-evidence` with the public URL of
 the MiniDungeon evidence repository once it is known. (It is intentionally left as a `TODO` — the URL
 is not known in this working tree and must not be invented.)
 
