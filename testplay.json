@@ -1,0 +1,13 @@
+{
+  "schema_version": "1",
+  "test_platform": "edit_mode",
+  "timeout": {
+    "total_ms": 1800000,
+    "compile_ms": 1200000,
+    "test_ms": 600000
+  },
+  "result_dir": ".testplay/results",
+  "retention": {
+    "max_runs": 30
+  }
+}
